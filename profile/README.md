@@ -9,23 +9,36 @@
 
 <p align="center"><img src="https://github.com/Ryuchanghoon/Quality_improvement_GAN/assets/107829554/61552df9-80d6-46ee-a67e-9502929ded6d"/></p>
 
+</br>
+
+---
+
+
+
+</br>
+
+### 👉  Our activity  👈
+
+</br>
+
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://cafe.naver.com/skhuai)](https://cafe.naver.com/skhuai)
 
-https://cafe.naver.com/skhuai
-
 
 
 </br>
-</br>
-</br>
-</br>
 
+
+---
+
+### 🦾 AI 인력 소개
+
+</br>
 
 <details> 
 <summary>
-<h2>
+<h3>
 1st Generation 🤖 
-</h2>
+</h3>
 </summary>
 
 #### [류창훈](https://github.com/Ryuchanghoon)
@@ -37,9 +50,9 @@ https://cafe.naver.com/skhuai
 
 <details> 
 <summary>
-<h2>
+<h3>
 2nd Generation 🤖 
-</h2>
+</h3>
 </summary>
 
 #### [김윤아](https://github.com/kkiwiio)
