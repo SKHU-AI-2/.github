@@ -41,7 +41,7 @@
 #### [최동락](https://github.com/rakdong)
 #### [송석준](https://github.com/suwdle)
 #### [김은총](https://github.com/rltgjqmtkdydwk)
-#### [빈채림]()
+#### [빈채림](https://github.com/chaelimee)
 #### [이윤아]()
 #### [안지호](https://github.com/anijiho)
 #### [윤이정](https://github.com/Today-ijeong)
