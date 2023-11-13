@@ -9,6 +9,11 @@
 
 <p align="center"><img src="https://github.com/Ryuchanghoon/Quality_improvement_GAN/assets/107829554/61552df9-80d6-46ee-a67e-9502929ded6d"/></p>
 
+[![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://cafe.naver.com/skhuai)](https://cafe.naver.com/skhuai)
+
+https://cafe.naver.com/skhuai
+
+
 
 </br>
 </br>
