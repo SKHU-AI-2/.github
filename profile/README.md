@@ -40,10 +40,10 @@
 #### [김윤아](https://github.com/kkiwiio)
 #### [최동락](https://github.com/rakdong)
 #### [송석준](https://github.com/suwdle)
-#### [김은총]()
+#### [김은총](https://github.com/rltgjqmtkdydwk)
 #### [빈채림]()
 #### [이윤아]()
-#### [안지호]()
+#### [안지호](https://github.com/anijiho)
 #### [윤이정](https://github.com/Today-ijeong)
 
 </details>
