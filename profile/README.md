@@ -60,7 +60,6 @@
 #### [송석준](https://github.com/suwdle)
 #### [김은총](https://github.com/rltgjqmtkdydwk)
 #### [빈채림](https://github.com/chaelimee)
-#### [이윤아](https://github.com/Profitah)
 #### [안지호](https://github.com/anijiho)
 #### [윤이정](https://github.com/Today-ijeong)
 
