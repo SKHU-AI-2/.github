@@ -37,17 +37,13 @@
 
 | 이름 | 역할 | 
 |:----:|:----:|
-| [류창훈](https://github.com/Ryuchanghoon) | 회장 |
-| [박무재](https://github.com/Mujae) | 운영진 |
-| [최민우](https://github.com/chaiminwoo0223) | 운영진 |
-| [송석준](https://github.com/suwdle) | 서기 |
-| [김윤아](https://github.com/kkiwiio) | 부원 |
-| [최동락](https://github.com/rakdong) | 부원 |
-| [김은총](https://github.com/rltgjqmtkdydwk) | 부원 |
-| [빈채림](https://github.com/chaelimee) | 부원 |
-| [안지호](https://github.com/anijiho) | 부원 |
-| [윤이정](https://github.com/Today-ijeong) | 부원 |
-
-
-
-
+| [**류창훈**](https://github.com/Ryuchanghoon) | 회장 |
+| [**박무재**](https://github.com/Mujae) | 운영진 |
+| [**최민우**](https://github.com/chaiminwoo0223) | 운영진 |
+| [**송석준**](https://github.com/suwdle) | 서기 |
+| [**김윤아**](https://github.com/kkiwiio) | 부원 |
+| [**최동락**](https://github.com/rakdong) | 부원 |
+| [**김은총**](https://github.com/rltgjqmtkdydwk) | 부원 |
+| [**빈채림**](https://github.com/chaelimee) | 부원 |
+| [**안지호**](https://github.com/anijiho) | 부원 |
+| [**윤이정**](https://github.com/Today-ijeong) | 부원 |
