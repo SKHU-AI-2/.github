@@ -35,43 +35,32 @@
 </h3>
 </br>
 
-| 이름 | 역할 | 
-|:----:|:----:|
-| [**류창훈**](https://github.com/Ryuchanghoon) | 회장 | #
-| [**박무재**](https://github.com/Mujae) | 운영진 | #
-| [**최민우**](https://github.com/chaiminwoo0223) | 운영진 | #
-| [**송석준**](https://github.com/suwdle) | 서기 | #
-| [**김윤아**](https://github.com/kkiwiio) | 부원 | #
-| [**최동락**](https://github.com/rakdong) | 부원 | # 
-| [**김은총**](https://github.com/rltgjqmtkdydwk) | 부원 |  
-| [**빈채림**](https://github.com/chaelimee) | 부원 |  
-| [**안지호**](https://github.com/anijiho) | 부원 |  
-| [**윤이정**](https://github.com/Today-ijeong) | 부원 | 
 
 
 
-
-
-| 회장 | 운영진 | 운영진 |
-|:----:|:-----:|:-----:|
-| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/085d19a0-04cd-4829-8924-95d8d3242faf" width="150px" height="200" /><br>[류창훈](https://github.com/Ryuchanghoon) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/8d07ab1d-abb7-43d0-917b-155a698406ba" width="150px" height="200" /><br>[박무재](https://github.com/Mujae) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/a04e5f5f-896f-4598-a45e-8e80bf120924" width="150px" height="200" /><br>[최민우](https://github.com/chaiminwoo0223) |
+| 회장 |
+|:----:|
+| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/d3a23f21-2f1b-4fd1-90e3-cc4c3600e061" width="200px" height="250" /><br>[류창훈](https://github.com/Ryuchanghoon) |
 
 </br>
+
+| 운영진 | 운영진 |
+|:-----:|:-----:|
+| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/8d07ab1d-abb7-43d0-917b-155a698406ba" width="200px" height="250" /><br>[박무재](https://github.com/Mujae) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/a04e5f5f-896f-4598-a45e-8e80bf120924" width="200px" height="250" /><br>[최민우](https://github.com/chaiminwoo0223) |
+
 </br>
 
 | 서기 |
 |:----:|
 | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/90bd2ff0-f84f-4a89-85bc-a0b52b87590e" width="150px" height="150" /><br>[송석준](https://github.com/suwdle) |
 
+</br>
+
+| 부원 | 부원 | 부원 |
+|:----:|:-----:|:-----:|
+| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/03c6e1d6-abd1-4234-bee4-aab4880e39fd" width="150px" height="150" /><br>[김윤아](https://github.com/kkiwiio) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08839531-5eae-4375-8b9b-56bccc7e5c34" width="150px" height="150" /><br>[최동락](https://github.com/rakdong) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/ceec1c28-931d-419f-9727-a324d002b290" width="150px" height="150" /><br>[김은총](https://github.com/rltgjqmtkdydwk) |
 
 
-
-
-
-
-| 서기 | 부원 | 부원 | 부원 | 부원 | 부원 | 부원 |
-|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/90bd2ff0-f84f-4a89-85bc-a0b52b87590e" width="150px" height="150" /><br>[송석준](https://github.com/suwdle) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/03c6e1d6-abd1-4234-bee4-aab4880e39fd" width="150px" height="150" /><br>[김윤아](https://github.com/kkiwiio) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08839531-5eae-4375-8b9b-56bccc7e5c34" width="150px" height="150" /><br>[최동락](https://github.com/rakdong) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/ceec1c28-931d-419f-9727-a324d002b290" width="150px" height="150" /><br>[김은총](https://github.com/rltgjqmtkdydwk) |<img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08770fe8-e502-43b3-9bd9-d576f8699d43" width="150px" height="150" /><br>[빈채림](https://github.com/chaelimee) |<img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/ebefeeeb-dbf3-4365-abd7-3de76b17e01b" width="150px" height="150" /><br>[안지호](https://github.com/anijiho) |<img src="사진_URL" width="150px" height="150" /><br>[운이정](https://github.com/Today-ijeong) |
-
-
-### 수정 중
+| 부원 | 부원 | 부원 |
+|:-----:|:-----:|:-----:|
+|<img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08770fe8-e502-43b3-9bd9-d576f8699d43" width="150px" height="150" /><br>[빈채림](https://github.com/chaelimee) |<img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/ebefeeeb-dbf3-4365-abd7-3de76b17e01b" width="150px" height="150" /><br>[안지호](https://github.com/anijiho) |<img src="사진_URL" width="150px" height="150" /><br>[윤이정](https://github.com/Today-ijeong) |
