@@ -57,9 +57,9 @@
 </br>
 </br>
 
-| 부원 | 부원 | 부원 |
-|:----:|:-----:|:-----:|
-| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/90bd2ff0-f84f-4a89-85bc-a0b52b87590e" width="200px" height="200" /><br>[송석준](https://github.com/suwdle) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/ceec1c28-931d-419f-9727-a324d002b290" width="200px" height="200" /><br>[김은총](https://github.com/rltgjqmtkdydwk) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08839531-5eae-4375-8b9b-56bccc7e5c34" width="200px" height="200" /><br>[최동락](https://github.com/rakdong)  |
+| 부원 | 부원 |
+|:----:|:-----:|
+| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/90bd2ff0-f84f-4a89-85bc-a0b52b87590e" width="200px" height="200" /><br>[송석준](https://github.com/suwdle) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08839531-5eae-4375-8b9b-56bccc7e5c34" width="200px" height="200" /><br>[최동락](https://github.com/rakdong)  |
 
 | 부원 | 부원 |
 |:-----:|:-----:|
