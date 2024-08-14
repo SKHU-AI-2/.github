@@ -20,8 +20,25 @@
 
 [![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://cafe.naver.com/skhuai)](https://cafe.naver.com/skhuai)
 
+</br>
+</br>
 
 
+
+<details>
+<summary><b> ⚙ 2기 활동 내역 ⚙ </b></summary>
+
+</br>
+
+- MLOps 스터디  
+- CV 스터디  
+- NLP 스터디  
+- 미니 프로젝트  
+- 논문 투고 연구 활동  
+
+</details>
+
+</br>
 </br>
 
 
@@ -38,6 +55,8 @@
 <details>
 <summary><b>2기</b></summary>
 
+
+</br>
 </br>
 
 
