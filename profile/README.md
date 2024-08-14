@@ -35,6 +35,12 @@
 </h3>
 </br>
 
+<details>
+<summary><b>2기</b></summary>
+
+</br>
+
+
 | 회장 |
 |:----:|
 | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/d3a23f21-2f1b-4fd1-90e3-cc4c3600e061" width="200px" height="250" /><br>[류창훈](https://github.com/Ryuchanghoon) |
@@ -64,3 +70,7 @@
 | 부원 | 부원 |
 |:-----:|:-----:|
 |<img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/08770fe8-e502-43b3-9bd9-d576f8699d43" width="200px" height="200" /><br>[빈채림](https://github.com/chaelimee) |<img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/a75409bb-0f1d-475c-9537-edf7f2845e6d" width="200px" height="200" /><br>[윤이정](https://github.com/Today-ijeong) |
+
+
+
+</summary>
