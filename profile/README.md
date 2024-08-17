@@ -62,7 +62,8 @@
 
 | 회장 |
 |:----:|
-| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/d3a23f21-2f1b-4fd1-90e3-cc4c3600e061" width="200px" height="250" /><br>[류창훈](https://github.com/Ryuchanghoon) |
+| <img src="https://github.com/user-attachments/assets/6ab4a739-5e96-413a-b5dc-de5f5340324e" width="200px" height="250" /><br>[류창훈](https://github.com/Ryuchanghoon) |
+
 
 
 | 운영진 | 운영진 |
