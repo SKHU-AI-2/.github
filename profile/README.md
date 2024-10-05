@@ -127,6 +127,14 @@
 
 </summary>
 
+| 부원 | 부원 | 부원 |
+|:----:|:-----:|:-----:|
+| <img src="https://github.com/user-attachments/assets/8c6779b4-6fb3-40e5-8b6d-a3c05a105992" width="200px" height="200" /><br>[이하늘](https://github.com/gidalyoung) | <img src="https://github.com/user-attachments/assets/67b723f4-8c6d-45e2-a66f-e564d699921b" width="200px" height="200" /><br>[최영환](https://github.com/yh1172) |  <img src="https://github.com/user-attachments/assets/9163e9ce-282f-46f2-9668-b033e326b9a6" width="200px" height="200" /><br>[최지윤](https://github.com/Choijiyun0902) |
 
+</br>
+
+| 부원 | 부원 |
+|:----:|:----:|
+| <img src="https://github.com/user-attachments/assets/1a6539f0-58b1-4148-8ce2-099252937415" width="200px" height="200" /><br>[심형준](https://github.com/simsi012) | <img src="https://github.com/user-attachments/assets/ad16cc9e-00d6-4017-963e-d75915a616f6" width="200px" height="200" /><br>[윤미래](https://github.com/snakegreen1) |
 
 
