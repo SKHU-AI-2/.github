@@ -115,13 +115,6 @@
 |:----:|
 | <img src="https://github.com/user-attachments/assets/6ab4a739-5e96-413a-b5dc-de5f5340324e" width="200px" height="250" /><br>[류창훈](https://github.com/Ryuchanghoon) |
 
-
-
-| 운영진 | 운영진 |
-|:----:|:----:|
-| <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/90bd2ff0-f84f-4a89-85bc-a0b52b87590e" width="200px" height="200" /><br>[송석준](https://github.com/suwdle) | <img src="https://github.com/Ryuchanghoon/Practice/assets/107829554/03c6e1d6-abd1-4234-bee4-aab4880e39fd" width="200px" height="200" /><br>[김윤아](https://github.com/kkiwiio) |
-
-
 </br>
 </br>
 
