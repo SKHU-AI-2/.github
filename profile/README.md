@@ -129,6 +129,9 @@
 | 부원 | 부원 |
 |:----:|:----:|
 | <img src="https://github.com/user-attachments/assets/1a6539f0-58b1-4148-8ce2-099252937415" width="200px" height="200" /><br>[심형준](https://github.com/simsi012) | <img src="https://github.com/user-attachments/assets/ad16cc9e-00d6-4017-963e-d75915a616f6" width="200px" height="200" /><br>[윤미래](https://github.com/snakegreen1) |
+</details>
+
+</br>
 
 <details>
 <summary><b>4기</b></summary>
