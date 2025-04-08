@@ -130,4 +130,34 @@
 |:----:|:----:|
 | <img src="https://github.com/user-attachments/assets/1a6539f0-58b1-4148-8ce2-099252937415" width="200px" height="200" /><br>[심형준](https://github.com/simsi012) | <img src="https://github.com/user-attachments/assets/ad16cc9e-00d6-4017-963e-d75915a616f6" width="200px" height="200" /><br>[윤미래](https://github.com/snakegreen1) |
 
+<details>
+<summary><b>4기</b></summary>
+
+</br>
+</br>
+
+### 🛠 운영진
+
+| 운영진 | 운영진 | 운영진 | 운영진 |
+|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/gidalyoung.png" width="200px" height="200" /><br>[이하늘](https://github.com/gidalyoung) | <img src="https://github.com/bbikgu.png" width="200px" height="200" /><br>[김규빈](https://github.com/bbikgu) | <img src="https://github.com/misokk.png" width="200px" height="200" /><br>[강미소](https://github.com/misokk) | <img src="https://github.com/hongdabomi.png" width="200px" height="200" /><br>[홍다보미](https://github.com/hongdabomi) |
+
+</br>
+</br>
+
+### 👥 부원
+
+| 부원 | 부원 | 부원 |
+|:----:|:----:|:----:|
+| <img src="https://github.com/dlalswns0211.png" width="200px" height="200" /><br>[이민준](https://github.com/dlalswns0211) | <img src="https://github.com/sujeengim.png" width="200px" height="200" /><br>[김수진](https://github.com/sujeengim) | <img src="https://github.com/hyojeongindeyo.png" width="200px" height="200" /><br>[홍효정](https://github.com/hyojeongindeyo) |
+
+| 부원 | 부원 | 부원 |
+|:----:|:----:|:----:|
+| <img src="https://github.com/yena-yena.png" width="200px" height="200" /><br>[조예나](https://github.com/yena-yena) | <img src="https://github.com/ryaungseo.png" width="200px" height="200" /><br>[안령서](https://github.com/ryaungseo) | <img src="https://github.com/hyeon-marina.png" width="200px" height="200" /><br>[권하연](https://github.com/hyeon-marina/hyeon) |
+
+| 부원 | 부원 |
+|:----:|:----:|
+| <img src="https://github.com/shinbox06.png" width="200px" height="200" /><br>[신승건](https://github.com/shinbox06/seung_g) | <img src="https://github.com/Churros-K.png" width="200px" height="200" /><br>[강지성](https://github.com/Churros-K) |
+
+</details>
 
